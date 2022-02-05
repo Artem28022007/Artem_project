@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    
+}
+
+.a{
+    color: darkblue;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.b{
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.c{
+    color: yellow;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.d{
+    color: darkblue;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.e{
+    color: green;
+    font-size: 100px;
+    font-weight: bold
+}
+
+.f{
+    color: red;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+button{
+    width: 80px;
+    height: 20px;
+    margin-left: 170px;
+}
+
+    
